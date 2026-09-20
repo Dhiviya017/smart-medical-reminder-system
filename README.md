@@ -65,7 +65,7 @@ The major system components include:
 
 ## 📷 Project Images
 
-Project images and hardware setup photos will be added here.
+(Project-setup01.jpeg) (Project-setup02.jpeg)
 
 ## 🚀 Future Improvements
 
